@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\cytuz\Documents\testMATOG2\matog\MyArray_host.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cytuz\Documents\testMATOG2\matog\MyArray_device.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\cytuz\Documents\testMATOG2\matog\MyArray_dyn.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\cytuz\Documents\testMATOG2\matog\MyArray.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cytuz\Documents\testMATOG2\matog\MyArrayGlobal.cu">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cytuz\Documents\testMATOG2\matog\MyArrayGlobalType.cu">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cytuz\Documents\testMATOG2\matog\MyArrayShared.cu">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\cytuz\Documents\testMATOG2\matog\MyArrayDyn.cu">
+      <Filter>Generated</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cytuz\Documents\testMATOG2\matog\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{3832327A-E377-30C1-A888-E49AAA5CD035}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

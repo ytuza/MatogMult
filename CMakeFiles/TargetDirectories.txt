@@ -1,0 +1,4 @@
+C:/Users/cytuz/Documents/testMATOG2/bin/CMakeFiles/testproject.dir
+C:/Users/cytuz/Documents/testMATOG2/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/cytuz/Documents/testMATOG2/bin/CMakeFiles/ZERO_CHECK.dir
+C:/Users/cytuz/Documents/testMATOG2/bin/matog/CMakeFiles/test-lib.dir
